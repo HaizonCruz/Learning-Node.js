@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "\"Demo JS\"",
+  "main": "demo.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node demo.js"
+  },
+  "author": "",
+  "license": "UNLICENSED"
+}
