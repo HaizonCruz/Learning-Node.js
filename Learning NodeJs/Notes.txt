@@ -1,0 +1,10 @@
+What is NodeJs?
+
+
+What is npm?
+Stands for node package manager.
+
+
+Asynchronous tasks and callbacks
+
+
